@@ -1,8 +1,10 @@
 *
 !.gitignore
 !.gitattributes
-!readme.md
+!README.md
 !src
 !src/**/*
 !pom.xml
+!imagens/
+!*.png
 
